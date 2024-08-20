@@ -6,6 +6,9 @@ This project follows a robust CI/CD pipeline to manage the deployment and mainte
 
 ![Three-Tier-1](https://github.com/user-attachments/assets/3a747e2a-58a2-4fb7-9e53-b28237690766)
 
+<img src="https://github.com/user-attachments/assets/3a747e2a-58a2-4fb7-9e53-b28237690766" alt="Three-Tier-1" width="600"/>
+
+
 
 ### Continuous Integration and Continuous Deployment (CI/CD)
 - **Terraform**: Infrastructure as Code (IaC) is managed through Terraform, enabling automated provisioning and configuration of the infrastructure.
