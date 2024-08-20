@@ -4,7 +4,7 @@
 
 This project follows a robust CI/CD pipeline to manage the deployment and maintenance of a three-tier application. The architecture is divided into the following components:
 
-<img src="https://github.com/user-attachments/assets/3a747e2a-58a2-4fb7-9e53-b28237690766" alt="Three-Tier-1" width="600" height="800"/>
+<img src="https://github.com/user-attachments/assets/3a747e2a-58a2-4fb7-9e53-b28237690766" alt="Three-Tier-1" width="500" height="650"/>
 
 
 ### Continuous Integration and Continuous Deployment (CI/CD)
